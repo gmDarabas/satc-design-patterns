@@ -1,0 +1,28 @@
+[
+    {
+      "id": 1,
+      "name": "João Silva",
+      "address": "Rua das Flores, 123, São Paulo, SP"
+    },
+    {
+      "id": 2,
+      "name": "Maria Oliveira",
+      "address": "Avenida Brasil, 456, Rio de Janeiro, RJ"
+    },
+    {
+      "id": 3,
+      "name": "Carlos Santos",
+      "address": "Praça da Liberdade, 789, Belo Horizonte, MG"
+    },
+    {
+      "id": 4,
+      "name": "Ana Souza",
+      "address": "Rua dos Lírios, 101, Salvador, BA"
+    },
+    {
+      "id": 5,
+      "name": "Pedro Lima",
+      "address": "Travessa das Palmeiras, 202, Porto Alegre, RS"
+    }
+  ]
+  

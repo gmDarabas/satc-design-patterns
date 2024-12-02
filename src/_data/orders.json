@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "client": {
+            "id": 1,
+            "name": "João Silva",
+            "address": "Rua das Flores, 123, São Paulo, SP"
+        },
+        "products": [
+            {
+                "id": 1,
+                "name": "MacBook Pro",
+                "categoryId": 2
+            },
+            {
+                "id": 3,
+                "name": "Camiseta",
+                "categoryId": 5
+            }
+        ],
+        "deliveryType": "standard",
+        "discount": 10,
+        "state": "Received"
+    },
+    {
+        "id": 2,
+        "client": {
+            "id": 2,
+            "name": "Maria Oliveira",
+            "address": "Avenida Brasil, 456, Rio de Janeiro, RJ"
+        },
+        "products": [
+            {
+                "id": 2,
+                "name": "iPhone 14",
+                "categoryId": 3
+            },
+            {
+                "id": 5,
+                "name": "Notebook Gamer",
+                "categoryId": 7
+            }
+        ],
+        "deliveryType": "express",
+        "discount": 5,
+        "state": "Shipped"
+    },
+    {
+        "id": 3,
+        "client": {
+            "id": 3,
+            "name": "Carlos Santos",
+            "address": "Praça da Liberdade, 789, Belo Horizonte, MG"
+        },
+        "products": [
+            {
+                "id": 4,
+                "name": "Vestido",
+                "categoryId": 6
+            },
+            {
+                "id": 2,
+                "name": "iPhone 14",
+                "categoryId": 3
+            }
+        ],
+        "deliveryType": "standard",
+        "discount": 20,
+        "state": "Delivered"
+    },
+    {
+        "id": 4,
+        "client": {
+            "id": 4,
+            "name": "Ana Souza",
+            "address": "Rua dos Lírios, 101, Salvador, BA"
+        },
+        "products": [
+            {
+                "id": 1,
+                "name": "MacBook Pro",
+                "categoryId": 2
+            }
+        ],
+        "deliveryType": "standard",
+        "discount": 0,
+        "state": "Received"
+    },
+    {
+        "id": 5,
+        "client": {
+            "id": 5,
+            "name": "Pedro Lima",
+            "address": "Travessa das Palmeiras, 202, Porto Alegre, RS"
+        },
+        "products": [
+            {
+                "id": 3,
+                "name": "Camiseta",
+                "categoryId": 5
+            },
+            {
+                "id": 4,
+                "name": "Vestido",
+                "categoryId": 6
+            }
+        ],
+        "deliveryType": "express",
+        "discount": 15,
+        "state": "Processing"
+    }
+]
