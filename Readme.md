@@ -20,7 +20,9 @@ Este projeto é uma API desenvolvida com [Express.js](https://expressjs.com/) pa
 - **Descrição**: Garante a criação de instâncias específicas para os diferentes estados do pedido.
 - **Exemplo no Projeto**: A *Factory* cria objetos representando os estados definidos no padrão *State*.
 
----
+## Diagrama
+
+<img src="Diagrama.png"/>
 
 ## Endpoint Disponíveis
 - `GET /api/menu` - Retorna o menu com categorias, subcategorias e produtos. Demonstra o padrão *Composite*. 
